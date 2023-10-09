@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pradumn-portfolio/static/css/main.5dec3cf0.css",
+    "main.js": "/pradumn-portfolio/static/js/main.f7e2c7fe.js",
+    "static/media/SRS.pdf": "/pradumn-portfolio/static/media/SRS.2a6b579fb1d669fd376d.pdf",
+    "static/media/portfolio1.png": "/pradumn-portfolio/static/media/portfolio1.6a4ef5e9f38cda886068.png",
+    "static/media/portfolio2.png": "/pradumn-portfolio/static/media/portfolio2.3f2e709e3708980f7fd0.png",
+    "static/media/portfolio3.png": "/pradumn-portfolio/static/media/portfolio3.39260b97a078b8de1f58.png",
+    "static/media/cv.pdf": "/pradumn-portfolio/static/media/cv.21ea99936158b236483b.pdf",
+    "static/media/meN.png": "/pradumn-portfolio/static/media/meN.069a785daf675699d502.png",
+    "static/media/me-about.jpeg": "/pradumn-portfolio/static/media/me-about.61a7537996ae88d53fa7.jpeg",
+    "static/media/portfolio4.png": "/pradumn-portfolio/static/media/portfolio4.fbd385476cd1f4434934.png",
+    "static/media/portfolio6.png": "/pradumn-portfolio/static/media/portfolio6.8c11c6be5211068f07e8.png",
+    "index.html": "/pradumn-portfolio/index.html",
+    "main.5dec3cf0.css.map": "/pradumn-portfolio/static/css/main.5dec3cf0.css.map",
+    "main.f7e2c7fe.js.map": "/pradumn-portfolio/static/js/main.f7e2c7fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dec3cf0.css",
+    "static/js/main.f7e2c7fe.js"
+  ]
+}
